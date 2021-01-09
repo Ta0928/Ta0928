@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+はじめまして！
+
 <!--
 **Ta0928/Ta0928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
