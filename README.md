@@ -1,11 +1,10 @@
 ### 自己紹介
 
 
-|  item  |  text  |
+|  TH  |  TH  |
 | ---- | ---- |
-|  性別  |  男  |
-|  TD    |  TD  |
-|  TD    |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
 
 
 
