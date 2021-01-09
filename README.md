@@ -1,6 +1,15 @@
-### Hi there 👋
+### 自己紹介
 
-はじめまして！
+
+|  項目  |  内容  |
+| ---- | ---- |
+|  性別  |  男  |
+|  TD  |  TD  |
+
+
+
+
+
 
 <!--
 **Ta0928/Ta0928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
