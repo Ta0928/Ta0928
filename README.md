@@ -1,4 +1,4 @@
-### 自己紹介
+### ■自己紹介
 
 | 項目 |  内容   |
 | --- | --- | 
@@ -9,12 +9,15 @@
 | 経歴 | 2017　法政大学 卒 <br>2017　NTTコムソリューションズ 入社 <br>現在　NTTコムソリューションズ 在中 <br><br>以上 |
 | 専攻・経験 | サーバ系Sier,PM,Webサイト運営,SNSマーケティング,Python初級 etc... |
 
-#### 運営サイト
-<br>[釣りが代](https://tsuri-info.com/)
+#### ◇運営サイト
+[釣りが代](https://tsuri-info.com/)
 
-・SNSアカウント
+#### ◇SNSアカウント
+・Twitter
 <br>[@sokomonizm](https://twitter.com/sokomonizm)
 <br>[@Tsurigayo](https://twitter.com/Tsurigayo)
+
+
 
 ・個人的な業務経験
 プライムダイレクト社　商品テスター兼宣伝
