@@ -10,17 +10,19 @@
 | 専攻・経験 | サーバ系Sier,PM,Webサイト運営,SNSマーケティング,Python初級 etc... |
 
 ・運営サイト
-リンク
+[釣りが代]
+(https://tsuri-info.com/)
 
 ・SNSアカウント
-リンク
-リンク
+@sokomonizm
+@Tsurigayo
 
 ・個人的な業務経験
-
+プライムダイレクト社　商品テスター兼宣伝
 
 ・取得資格
-https://github.com/Ta0928/Ta0928/tree/main/qualification
+[Ta0928/Ta0928/qualification]
+(https://github.com/Ta0928/Ta0928/tree/main/qualification)
 
 以上
 
