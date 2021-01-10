@@ -16,16 +16,16 @@
 ・Twitter
 <br>　[@sokomonizm](https://twitter.com/sokomonizm)
 <br>　[@Tsurigayo](https://twitter.com/Tsurigayo)
-<br>・Youtube
+<br><br>・Youtube
 <br>　[釣りが代](https://www.youtube.com/channel/UCHv5uMwagfDMxa6bMUL6eeQ)
-<br>・LINE
+<br><br>・LINE
 <br>　[釣りが代](https://line.me/R/ti/p/%40389jodbn)
 
 #### ◇　個人的な業務経験
 ・テスター兼宣伝　(プライムダイレクト社 商品)
 
 #### ◇　取得資格
-<br>　[Ta0928/Ta0928/qualification](https://github.com/Ta0928/Ta0928/tree/main/qualification)
+・[Ta0928/Ta0928/qualification](https://github.com/Ta0928/Ta0928/tree/main/qualification)
 
 以上
 
