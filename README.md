@@ -20,8 +20,7 @@ SNSアカウント
 
 
 取得資格
-リンク
-
+https://github.com/Ta0928/Ta0928/tree/main/qualification
 以上
 
 
