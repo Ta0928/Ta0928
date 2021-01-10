@@ -13,15 +13,14 @@
 <br>[釣りが代](https://tsuri-info.com/)
 
 ・SNSアカウント
-@sokomonizm
-@Tsurigayo
+<br>[@sokomonizm](https://twitter.com/sokomonizm)
+<br>[@Tsurigayo](https://twitter.com/Tsurigayo)
 
 ・個人的な業務経験
 プライムダイレクト社　商品テスター兼宣伝
 
 ・取得資格
-[Ta0928/Ta0928/qualification]
-(https://github.com/Ta0928/Ta0928/tree/main/qualification)
+<br>[Ta0928/Ta0928/qualification](https://github.com/Ta0928/Ta0928/tree/main/qualification)
 
 以上
 
