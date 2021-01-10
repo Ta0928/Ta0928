@@ -10,8 +10,7 @@
 | 専攻・経験 | サーバ系Sier,PM,Webサイト運営,SNSマーケティング,Python初級 etc... |
 
 ・運営サイト
-[釣りが代]
-(https://tsuri-info.com/)
+<br>[釣りが代](https://tsuri-info.com/)
 
 ・SNSアカウント
 @sokomonizm
