@@ -1,3 +1,8 @@
+![釣りが代さん(オレンジ) - コピー](https://user-images.githubusercontent.com/27716972/104170174-0e56a200-5444-11eb-80d1-992c5c6e6de6.jpg)
+
+
+
+
 ### ■　自己紹介
 
 | 項目 |  内容   |
