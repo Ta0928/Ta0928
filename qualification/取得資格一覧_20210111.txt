@@ -5,7 +5,7 @@
 ・Comptia Cloud+
 ・JDLA　G検定
 ・Python 3 エンジニア認定基礎
-
+・Python 3 エンジニア認定データ分析
 
 〇その他
 ・ITIL Foundation
